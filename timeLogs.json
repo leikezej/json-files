@@ -44,10 +44,10 @@
       "avatar": "https://i.postimg.cc/4y0Q0MpN/makaveli.jpg"
     }
   ],
-  "first_page_url": "https://api.mywebtuts.com/api/users?page=1",
+  "first_page_url": "https://github.com/leikezej/json-files/blob/main/timeLogs.json",
   "from": 1,
   "last_page": 2,
-  "last_page_url": "https://api.mywebtuts.com/api/users?page=2",
+  "last_page_url": "https://github.com/leikezej/json-files/blob/main/timeLogs.json",
   "links": [
     {
       "url": null,
