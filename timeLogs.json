@@ -55,23 +55,23 @@
       "active": false
     },
     {
-      "url": "https://api.mywebtuts.com/api/users?page=1",
+      "url": "https://github.com/leikezej/json-files/blob/main/timeLogs.json",
       "label": "1",
       "active": true
     },
     {
-      "url": "https://api.mywebtuts.com/api/users?page=2",
+      "url": "https://github.com/leikezej/json-files/blob/main/timeLogs.json",
       "label": "2",
       "active": false
     },
     {
-      "url": "https://api.mywebtuts.com/api/users?page=2",
+      "url": "https://github.com/leikezej/json-files/blob/main/timeLogs.json",
       "label": "Next »",
       "active": false
     }
   ],
-  "next_page_url": "https://api.mywebtuts.com/api/users?page=2",
-  "path": "https://api.mywebtuts.com/api/users",
+  "next_page_url": "https://github.com/leikezej/json-files/blob/main/timeLogs.json",
+  "path": "https://github.com/leikezej/json-files/blob/main/timeLogs.json",
   "per_page": 6,
   "prev_page_url": null,
   "to": 6,
